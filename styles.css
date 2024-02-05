@@ -1,0 +1,74 @@
+body {
+  margin: 0;
+}
+.hero-container {
+  padding: 18.9rem 1.5rem;
+  margin: 0;
+  text-align: center;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+h1 {
+  font-size: 3em;
+  font-weight: 700;
+}
+.intro-title {
+  font-family: serif;
+}
+.hero-img {
+  background-image: url(background\ about\ me.jpg);
+  background-color: aqua;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.about-me{
+  font-family: 'Roboto Condensed', sans-serif;
+  text-align: center;
+  padding: 6rem;
+  font-size: large;
+  background-color: rgb(193, 237, 250);
+}
+.bio {
+  font-family: serif;
+  width: 40%;
+  margin: auto;
+}
+.skills {
+  text-align: center;
+  padding: 3rem;
+  font-family: 'Playfair Display', serif;
+  background-color: rgb(211, 239, 248);
+}
+.skill {
+  margin-bottom: 100px;
+}
+.skill-p {
+  width: 50%;
+  margin: auto;
+  font-family: sans-serif;
+  display: inline-block;
+}
+img {
+  height: 200px;
+  display: inline;
+}
+.skill-title {
+  
+}
+
+.contact-container {
+  text-align: center;
+  padding: 3rem;
+  font-family: 'Roboto Condensed', sans-serif;
+  border-radius: 50px;
+}
+.contact-info {
+  margin-left: 15px;
+  margin-right: 15px;;
+}
+.footer-container {
+  display: flex;
+  padding: 20px;
+  justify-content: space-around;
+  background-color: lightblue;
+}
